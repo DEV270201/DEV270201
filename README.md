@@ -59,10 +59,13 @@
 ### 🚀 Others :
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+### 📫 Find me around the social media 🌍:
+   
+ [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/devansh-shah-6162841a4/)  &nbsp;
+ <a href="mailto:devanshshah649@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 
-
-
+<!-- 
 ### &#x1f4c8; GitHub Stats
 <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev270201&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -70,8 +73,6 @@
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dev270201&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Devansh's GitHub Stats" />
 </a> 
+<--!>
 
-### 📫 Find me around the social media 🌍:
-   
- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/devansh-shah-6162841a4/)  &nbsp;
- <a href="mailto:devanshshah649@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
