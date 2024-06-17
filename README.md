@@ -9,7 +9,7 @@
   <li> ✨ Fun Fact ... I like to play Cricket and Badminton!</li>
   <li> 😊 Pronoun ... He/Him </li>
   <li> 💻 Masters Student in Computer Science at <a href="https://www.stevens.edu/">Stevens Institute of Technology</li>
-  <li> 🔤 Currently learning Next.js, AWS and ML :) </li>
+  <li> 🔤 Currently learning Nest.js, AWS and ML :) </li>
 </ul> </em></p>
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
