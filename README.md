@@ -5,11 +5,11 @@
 <p><em>
   <ul>
   <li> 👋 Hello, I’m Devansh Shah</li>
-  <li> 📫 How to reach me ... <a href="https://www.linkedin.com/in/devansh-shah-6162841a4/">Linkedin</a> OR <a href="mailto:devanshshah649@gmail.com">Mail</a> </li>
+  <li> 📫 How to reach me ... <a href="https://www.linkedin.com/in/dshah99/">Linkedin</a> OR <a href="mailto:devanshshah649@gmail.com">Mail</a> </li>
   <li> ✨ Fun Fact ... I like to play Cricket and Badminton!</li>
   <li> 😊 Pronoun ... He/Him </li>
   <li> 💻 Masters Student in Computer Science at <a href="https://www.stevens.edu/">Stevens Institute of Technology</li>
-  <li> 🔤 Currently learning Nest.js, AWS and ML :) </li>
+  <li> 🔤 Currently learning Nest.js, AWS and DevOps :) </li>
 </ul> </em></p>
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
@@ -41,6 +41,7 @@
 ### :mechanical_arm: ML/DL Frameworks :
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
@@ -64,7 +65,7 @@
 
 ### 📫 Find me around the social media 🌍:
    
- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/devansh-shah-6162841a4/)  &nbsp;
+ [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dshah99/)  &nbsp;
  <a href="mailto:devanshshah649@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 
