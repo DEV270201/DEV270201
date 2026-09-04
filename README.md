@@ -22,7 +22,7 @@ queries → research (Tavily) → plan + coverage score → [pause if evidence i
 
 <br/>
 
-**Expense Tracker Agent**: a local LLM agent, built from scratch, no framework scaffolding.
+**[Expense Tracker Agent](https://github.com/DEV270201/AI-Agents)**: a local LLM agent, built from scratch, no framework scaffolding.
 
 - **Function-calling loop on a local model.** Runs on Ollama, with system prompts designed to drive the model to select and invoke tools for logging and summarizing expenses, no cloud API in the loop.
 - **Remembers you across sessions.** A secondary LLM extracts user preferences at session end and persists them, so the next session's system prompt already knows how you like things done.
